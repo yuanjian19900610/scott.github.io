@@ -1,1 +1,21 @@
 theme: jekyll-theme-slate
+# Site settings
+title: scott Blog                     #你博客的标题
+SEOTitle:scott的博客 | You Blog        #显示在浏览器上搜索的时候显示的标题
+header-img: img/post-bg-rwd.jpg     #显示在首页的背景图片
+email: yuanjianjava@163.com    
+description: "自己选择的路，跪着也要走下去"              #网站介绍
+keyword: "BY, BY Blog, scott的博客, scott, yuanjian,android" #关键词
+url: "https://scott.github.io"          # 这个就是填写你的博客地址
+baseurl: ""      # 这个我们不用填写
+
+# Sidebar settings
+sidebar: true                           # 是否开启侧边栏.
+sidebar-about-description: "越努力越幸运"
+sidebar-avatar:/img/avatar-by.JPG      # 你的个人头像 这里你可以改成我在img文件夹中的两张备用照片 img/avatar-m 或 avatar-g
+
+
+# SNS settings
+RSS: false
+weibo_username:     yuanjian
+github_username:    yuanjian19900610
